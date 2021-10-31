@@ -10,4 +10,9 @@ class NumbersOfOddActivity : AppCompatActivity() {
 
 
     }
+
+    private fun vurmaEmeli(): Int {
+
+        return 5 * 3
+    }
 }
