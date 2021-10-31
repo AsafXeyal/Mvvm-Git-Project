@@ -15,4 +15,9 @@ class NumbersOfOddActivity : AppCompatActivity() {
 
         return 5 * 3
     }
+
+    private fun bolmeEmeli(): Int {
+
+        return 5 / 3
+    }
 }
