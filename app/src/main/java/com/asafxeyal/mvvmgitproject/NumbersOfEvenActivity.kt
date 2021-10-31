@@ -9,4 +9,8 @@ class NumbersOfEvenActivity : AppCompatActivity() {
         setContentView(R.layout.activity_numbers_of_even)
 
     }
+    private fun toplamaEmeli(): Int{
+        val dustur = 2 + 2
+        return dustur
+    }
 }
