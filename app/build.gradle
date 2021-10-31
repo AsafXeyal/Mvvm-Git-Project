@@ -6,6 +6,10 @@ plugins {
 android {
     compileSdk 30
 
+    buildFeatures {
+        dataBinding true
+    }
+
     defaultConfig {
         applicationId "com.asafxeyal.mvvmgitproject"
         minSdk 21
