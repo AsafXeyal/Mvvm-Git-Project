@@ -11,12 +11,12 @@ class NumbersOfOddActivity : AppCompatActivity() {
 
     }
 
-    private fun vurmaEmeli(): Int {
+    private fun vurmaEmeli() : Int {
 
         return 5 * 3
     }
 
-    private fun bolmeEmeli(): Int {
+    private fun bolmeEmeli() : Int {
 
         return 5 / 3
     }
